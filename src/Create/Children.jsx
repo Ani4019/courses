@@ -7,7 +7,7 @@ const Children= () => {
   return (
     <div>
       
-      <button onClick={getLaptopData}>Materials data</button>
+      <button onClick={getLaptopData}>Materials Data</button>
     </div>
   );
 };
